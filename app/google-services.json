@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "267458308622",
+    "project_id": "lab5-300165690",
+    "storage_bucket": "lab5-300165690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267458308622:android:2fc1dd2a9707cc544e2a5f",
+        "android_client_info": {
+          "package_name": "Lab5_JacobPilon.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267458308622-sbu7aaohbskit64gc0s9v8f7jbv756ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlTyc53WZCOkmTCATHERkRysPyBdZUzJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267458308622-sbu7aaohbskit64gc0s9v8f7jbv756ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267458308622:android:434b19222a2b8a3c4e2a5f",
+        "android_client_info": {
+          "package_name": "gr49.uottawa.lab5_jacobpilon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267458308622-sbu7aaohbskit64gc0s9v8f7jbv756ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlTyc53WZCOkmTCATHERkRysPyBdZUzJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267458308622-sbu7aaohbskit64gc0s9v8f7jbv756ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Lab5_JacobPilon</string>
+
+    <string name="ProductsTextView"> Products </string>
+    <string name="ADDbtn"> ADD </string>
+
+    <string name="ProductNameHint"> Enter name</string>
+    <string name="PriceHint"> Enter price</string>
 </resources>
